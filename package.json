@@ -1,7 +1,7 @@
 {
   "name": "@uiwebkit/pro",
   "version": "0.0.1",
-  "description": "Uni Pro Components (build)",
+  "description": "Pro Components Kit (build)",
   "author": "Vitalii Havryliuk",
   "main": "dist/pro.esm.js",
   "module": "dist/pro/index.esm.js",
