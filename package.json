@@ -1,0 +1,31 @@
+{
+  "name": "@uiwebkit/pro",
+  "version": "0.0.1",
+  "description": "Uni Pro Components (build)",
+  "author": "Vitalii Havryliuk",
+  "main": "dist/pro.esm.js",
+  "module": "dist/pro/index.esm.js",
+  "es2015": "dist/pro/index.esm.js",
+  "es2017": "dist/pro/index.esm.js",
+  "unpkg": "dist/pro.esm.js",
+  "jsdelivr": "dist/pro.esm.js",
+  "files": [
+    "dist/",
+    "loader/",
+    "i18n/"
+  ],
+  "scripts": {
+    "sync": "gulp",
+    "pack": "npm pack",
+    "publish": "npm publish --access public"
+  },
+  "devDependencies": {
+    "gulp": "4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uni/pro.git"
+  },
+  "homepage": "https://uiwebkit.com/pro/1/",
+  "license": "CC-BY-4.0"
+}
