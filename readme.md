@@ -2,7 +2,7 @@
 
 # Uni Pro Components
 
-Uni Pro Components is a set of Web Components & Custom Elements to build widgets and even web apps in declarative style.
+Uni Pro Components is a set of Web Components & Custom Elements to use professional components in a declarative style.
 
 Uni Pro Components elements have three modes:
 1. Custom Element - `100%` convenience;
