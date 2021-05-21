@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/pro",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Pro Components Kit (build)",
   "author": "Vitalii Havryliuk",
   "main": "dist/pro.esm.js",
