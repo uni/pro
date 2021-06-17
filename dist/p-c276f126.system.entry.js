@@ -1,0 +1,1 @@
+System.register(["./p-2944ba01.system.js","./p-535e74a4.system.js","./p-a821f331.system.js"],(function(t){"use strict";return{setters:[function(s){t("uni_action_copy",s.U)},function(){},function(){}],execute:function(){}}}));

@@ -1,1 +1,0 @@
-System.register(["./p-393084f3.system.js","./p-4a94c31b.system.js"],(function(t){"use strict";return{setters:[function(){},function(e){t("uni_label_wrap",e.U)}],execute:function(){}}}));

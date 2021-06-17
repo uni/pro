@@ -1,1 +1,0 @@
-System.register(["./p-393084f3.system.js","./p-cd063c5d.system.js","./p-a821f331.system.js"],(function(s){"use strict";return{setters:[function(){},function(t){s("uni_breadcrumbs",t.U)},function(){}],execute:function(){}}}));
