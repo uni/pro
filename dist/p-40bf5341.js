@@ -1,0 +1,1 @@
+import{r as o}from"./p-c785943c.js";import{u as r}from"./p-78249524.js";import{U as s}from"./p-31ee1209.js";const t=class{constructor(r){o(this,r)}render(){return s({classes:{row:!0}})}componentDidLoad(){r("uni-layout-row","throw")}};export{t as U}

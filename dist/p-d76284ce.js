@@ -1,0 +1,1 @@
+import{r as t,g as o}from"./p-c785943c.js";import{u as s}from"./p-78249524.js";const e=class{constructor(o){t(this,o)}componentDidRender(){document.head.querySelector("title").innerText=this.value||this.el.textContent}componentDidLoad(){s("uni-selection","apply")}get el(){return o(this)}};export{e as U}

@@ -1,1 +1,0 @@
-System.register(["./p-37926c7f.system.js","./p-535e74a4.system.js","./p-a821f331.system.js","./p-2b0a0f94.system.js","./p-2dea2bc9.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_sidebar",t.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));

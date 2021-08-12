@@ -1,0 +1,1 @@
+System.register(["./p-2eadff7c.system.js","./p-47ba6c5d.system.js","./p-a821f331.system.js","./p-2dea2bc9.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_frame",t.U)},function(){},function(){},function(){}],execute:function(){}}}));

@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/pro",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "license": "CC-BY-4.0",
   "author": "Vitalii Havryliuk",
   "description": "Pro Components Kit (build)",
@@ -18,7 +18,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-pro-0.3.0.tgz --access public"
+    "publish": "npm publish uiwebkit-pro-0.4.1.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"
