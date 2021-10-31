@@ -1,0 +1,1 @@
+System.register(["./p-f5e0a91c.system.js","./p-939ba3c0.system.js","./p-732072fa.system.js"],(function(t){"use strict";return{setters:[function(s){t("uni_action_download",s.U)},function(){},function(){}],execute:function(){}}}));

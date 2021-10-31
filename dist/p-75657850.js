@@ -1,1 +1,0 @@
-import{r as o,h as t}from"./p-c785943c.js";import{u as r}from"./p-78249524.js";const s=class{constructor(t){o(this,t),this.name="index.html"}render(){return t("a",{href:this.url,download:this.name},t("slot",null))}componentDidLoad(){r("uni-action-download","generate")}};export{s as U}
