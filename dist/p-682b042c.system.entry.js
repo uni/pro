@@ -1,1 +1,0 @@
-System.register(["./p-68e045f1.system.js","./p-939ba3c0.system.js","./p-732072fa.system.js"],(function(t){"use strict";return{setters:[function(s){t("uni_scroll_to",s.U)},function(){},function(){}],execute:function(){}}}));

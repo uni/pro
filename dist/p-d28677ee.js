@@ -1,1 +1,0 @@
-import{r as o,h as s}from"./p-c5932d90.js";import{u as t}from"./p-a1e23952.js";const r=class{constructor(s){o(this,s),this.name="index.html"}render(){return s("a",{href:this.url,download:this.name},s("slot",null))}componentDidLoad(){t("pck")}};export{r as U}
