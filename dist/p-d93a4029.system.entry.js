@@ -1,1 +1,0 @@
-System.register(["./p-83f32f06.system.js","./p-edf4707e.system.js","./p-3e4da347.system.js"],(function(t){"use strict";return{setters:[function(e){t("uni_action_download",e.U)},function(){},function(){}],execute:function(){}}}));

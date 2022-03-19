@@ -1,0 +1,1 @@
+const t=t=>void 0!==t,r=t=>Array.isArray(t),a=t=>"object"==typeof t&&null!==t&&!r(t),n=t=>"string"==typeof t;function o(t){try{JSON.parse(t)}catch(r){return!1}return n(t)}export{r as a,t as b,o as c,a as d,n as i}
