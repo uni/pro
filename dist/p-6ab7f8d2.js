@@ -1,1 +1,0 @@
-import{c as e,d as r,a as u}from"./p-8614825d.js";function a(a){return"true"===a||"false"!==a&&("null"===a?null:"undefined"===a?void 0:function(e){return!isNaN(parseFloat(e))&&!isNaN(Number(e))}(a)?Number(a):e(a)?JSON.parse(a):r(a)?Object.assign({},a):u(a)?[...a]:a)}export{a as u}

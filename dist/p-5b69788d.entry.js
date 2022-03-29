@@ -1,0 +1,1 @@
+import{r as t}from"./p-d4bd787b.js";const s=class{constructor(s){t(this,s),this.year=!1}render(){const t=(new Date).toDateString().split(" ")[3];return this.year?t:null}};export{s as uni_date}
